@@ -42,7 +42,6 @@ type: hidden
 </div>
 
 <div class="t-center">
-    {% include icon/slack.html %}
     <br>
     Join us on slack.
     <br>
