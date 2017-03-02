@@ -70,7 +70,7 @@ type: hidden
   <em>Ask any one of these fine individuals.</em>
 </div>
 
-{% include team-grid.html %}
+#{% include team-grid.html %}
 
 
 <div class="t-center">
