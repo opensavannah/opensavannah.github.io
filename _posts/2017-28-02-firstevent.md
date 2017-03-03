@@ -8,7 +8,7 @@ Come join us for our first official group meeting, and help set the future agend
 
 ![](https://cdn-images-1.medium.com/max/1600/1*z0wNjhZ4cTO6idt5wewDXw.jpeg)
 
-RSVP here now for our first official brigade event.
+RSVP now for our first official brigade event.
 
 
 I’m the sort of person who always has too many ideas and too little time. I’d gamble to say that I’m not alone in that respect. That’s why it’s important for us to prioritize and have a dialogue about what our first projects should be regarding improving Savannah’s public data and services.
