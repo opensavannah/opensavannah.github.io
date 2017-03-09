@@ -1,7 +1,6 @@
 ---
 title: Open Savannah
 timezone: UTC
-markdown: kramdown
 collections:
   posts:
     title: Posts
@@ -9,13 +8,15 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: yall@opensavannah.org  
+markdown: kramdown
+email: yall@opensavannah.org
 repository: opensavannah/opensavannah.github.io
-description: 'Part of the Code for America Brigade network, we are a volunteer group
+description: Part of the Code for America Brigade network, we are a volunteer group
   of developers, designers, data geeks, and citizen activists who use creative technology
-  to solve civic and social problems.'
+  to solve civic and social problems.
 baseurl: ''
-include: ['_pages']
+include:
+- _pages
 url: http://opensavannah.org
 hackpad_url: https://paper.dropbox.com/doc/-Open-Savannah-Brigade-Dropbox-Paper-Hub-x6lFrdh3PLZEfFAA9BLpZ
 twitter_url: https://twitter.com/open_savannah

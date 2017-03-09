@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Announcing Feb. 23rd Kickoff Event, Community Brainstorming Night
+date: 2017-02-04 00:00:00 Z
+layout: post
 author_staff_member: Carl V. Lewis
-date: 2017-02-04
 ---
+
 Come join us for our first official group meeting, and help set the future agenda for the brigade.
 
 ![](https://cdn-images-1.medium.com/max/1600/1*z0wNjhZ4cTO6idt5wewDXw.jpeg)

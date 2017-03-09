@@ -1,10 +1,9 @@
 ---
 title: Code of Conduct
-permalink: /code-of-conduct/
+permalink: "/code-of-conduct/"
 layout: page
 type: none
 ---
-
 
 # Our Code Of Conduct
 {: .t-section-headline}
